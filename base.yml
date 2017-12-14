@@ -1,3 +1,5 @@
 name: base
+author: development <development@metismachine.com>
 description: Base template for the Skafos platform.
+tags: python, machine learning,
 repo: https://github.com/metismachine/base.template
