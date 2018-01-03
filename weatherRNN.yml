@@ -1,0 +1,6 @@
+name: weatherRNN
+author: development <development@metismachine.com>
+description: Base template for a deep learning model.
+tags: python, machine learning, weather
+repo: https://github.com/metismachine/weatherRNN.template
+version: 0.1.0
