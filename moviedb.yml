@@ -3,4 +3,4 @@ author: development <development@metismachine.com>
 description: Movie ingest.
 tags: python, machine learning, movie, movies
 repo: https://github.com/metismachine/moviedb.template
-version: 0.0.3
+version: 0.0.4
