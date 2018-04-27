@@ -3,4 +3,4 @@ author: development <development@metismachine.com>
 description: Base template for a recommendation engine.
 tags: python, machine learning, recommendation engines, movies
 repo: https://github.com/metismachine/recommender.template
-version: 0.0.5
+version: 0.1.0
