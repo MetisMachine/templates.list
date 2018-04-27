@@ -3,4 +3,4 @@ author: development <development@metismachine.com>
 description: Base template for a deep learning model.
 tags: python, machine learning, weather
 repo: https://github.com/metismachine/weatherRNN.template
-version: 0.2.0
+version: 0.2.1
