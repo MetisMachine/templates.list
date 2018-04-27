@@ -3,4 +3,4 @@ author: development <development@metismachine.com>
 description: Base template for a crypto currency price prediction model using deep learning.
 tags: python, machine learning, crypto currency, bitcoin, blockchain
 repo: https://github.com/metismachine/bitcoinRNN.template
-version: 0.1.0
+version: 0.1.1
