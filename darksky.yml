@@ -3,4 +3,4 @@ author: development <development@metismachine.com>
 description: Base template for weather intake.
 tags: python, machine learning, weather
 repo: https://github.com/metismachine/darksky.template
-version: 0.1.0
+version: 0.1.1
